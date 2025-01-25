@@ -14,7 +14,7 @@ The project is configured for a comfortable and quick launch of all services wit
 [**docker-compose.yaml**](https://github.com/Kaboupi/d-compose/blob/master/docker-compose.yaml) includes following images:
 
 |Number|Docker Image|Image TAG|Description|TAG when added|
-|---|---|---|---|
+|---|---|---|---|---|
 |1|PostgreSQL|postgres:13.3|OLTP DB|
 |2|ClickHouse|clickhouse/clickhouse-server:latest|OLAP DB|
 |3|Apache Airflow|apache/airflow:2.10.4|ETL|
